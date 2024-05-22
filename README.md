@@ -2,4 +2,4 @@
 Örnek personel nesnesi XML, YAML ve JSON dosya formatlarında oluşturulmuştur.
 
 
-![Personel Listesi Modeli](https://github.com/SeymaDeveci/Employees-Object-Sample/assets/42176018/61a28a22-248b-4742-81f8-b92b24eba9c6)
+<img width="536" alt="Personel Nesnesi Modeli" src="https://github.com/SeymaDeveci/Employees-Object-Sample/assets/42176018/9b4ba916-8fb9-40cb-99a0-b547b2cac9ae">
